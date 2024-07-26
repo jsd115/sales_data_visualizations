@@ -4,4 +4,4 @@ The goal of this project is to use Plotly to graph sales data as well as use Das
 
 # Sample Output of the Dash App
 
-[Alt text]([URL-to-your-image](https://github.com/jsd115/sales_data_visualizations/blob/main/sales_data_visualization_sample_output.jpeg))
+[Example Output](https://github.com/jsd115/sales_data_visualizations/blob/main/sales_data_visualization_sample_output.jpeg)
